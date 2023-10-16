@@ -12,6 +12,7 @@ pypdf = "*"
 pypdf2 = "*"
 pymupdf = "*"
 sentence-transformers = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
