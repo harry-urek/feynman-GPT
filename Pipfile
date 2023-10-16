@@ -4,13 +4,18 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-transformers = "*"
 langchain = "*"
+pydantic = "*"
 fastapi = {extras = ["all"], version = "*"}
-uvicorn = {extras = ["standard"], version = "*"}
+transformers = "*"
+pypdf = "*"
+pypdf2 = "*"
+pymupdf = "*"
+sentence-transformers = "*"
+faiss-cpu = "*"
+chainlit = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.11"
-python_full_version = "3.11.5"
