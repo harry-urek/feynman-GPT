@@ -5,7 +5,8 @@ An Open Source LLM &amp; Web Scrapper based tool to Study and Do research about 
 
 ### Description of I want it to be
  
-    App which helps you do whatever chatgpt does but without paying for it and is more user friendly Research oriented rather than spouting alot of nonsense for no reason and is able to run on your local machine .
+    App which helps you do whatever chatgpt does but without paying for it and is more user friendly Research oriented rather
+    than spouting alot of nonsense for no reason and is able to run on your local machine .
     Main goal is feed it any pdf and get full summarry about every Topic almost like your Toper friend during exams.
 
 
